@@ -9,6 +9,8 @@
 - Ability to create, edit, and delete posts
 - Like and comment on posts
 
+You can view the project [here](https://facebook-clone-iota-ten.vercel.app/)
+
 
 ## Contributing
 
